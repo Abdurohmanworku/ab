@@ -24,4 +24,4 @@ In this project, I explore:
 * Scikit-Learn (for Machine Learning)
 
 ## 📈 Results
-Current model accuracy: 82%
+Current model accuracy: 82.9%
